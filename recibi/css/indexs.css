@@ -162,7 +162,7 @@ transition:.3s;
 
 .social-icons a:hover{
 
-color: #B0E4CC;
+color: #408A71;
 
 }
 
@@ -206,14 +206,14 @@ font-size:42px;
 }
 
 .footer-icons a {
-  color: #e5e7eb;
+  color: #408A71;
   margin: 0 10px;
   font-size: 22px;
   transition: 0.3s;
 }
 
 .footer-icons a:hover {
-  color: #22c55e; /* verde lindo */
+  color: #B0E4CC; /* verde lindo */
   transform: scale(1.2);
 }
 
